@@ -6,31 +6,6 @@
   </div>
 </template>
 
-<script>
-// import Weather from "./components/WeatherList.vue";
-// import AddCity from "./components/AddCity.vue";
-// export default {
-//   name: "App",
-//   components: {
-//     Weather,
-//     AddCity
-//   },
-//   data() {
-//     return {
-//       cities: []
-//     };
-//   },
-//   methods: {
-//     removeCity(id) {
-//       this.cities = this.cities.filter(c => c.id !== id);
-//     },
-//     addCity(city) {
-//       this.cities.push(city);
-//     }
-//   }
-// };
-</script>
-
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
